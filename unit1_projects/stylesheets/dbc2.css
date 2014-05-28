@@ -1,0 +1,48 @@
+body
+{	background-color: #b0c4de;
+}
+
+h1
+{
+	text-align:center;
+}
+
+body{
+  margin: 20px;
+  background: #eeeeee;
+  font-size: large;
+  font-family: Tahoma, Arial, “Trebuchet MS”, Helvetica, sans-serif;
+  text-align: left;
+}
+
+#container{
+  width: 75%;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid #666;
+  background: #ffffff;
+}
+
+#sidebar
+{	color:blue; 
+	float:left; 
+	height:500px; 
+	width:100px;
+	border: 1px solid #666;
+	background: #ffffff;
+}
+
+#content
+{	color:gray; 
+	margin-right:7.75%;
+}
+
+#footer
+{	color:red;
+	border: 1px solid #666;
+	background: #ffffff;
+	padding: 30px;
+	text-align:center;
+	position:fixed;
+	bottom: 0px;
+}
