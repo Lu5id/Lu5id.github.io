@@ -12,7 +12,11 @@ body{
 	padding: 4px;
 }
 
-h3{
+h3, h2, article, p{
 	text-align: center;
 	color: F8B8B8;
+}
+
+.footer{
+	text-align: center;
 }
