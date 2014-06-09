@@ -1,0 +1,22 @@
+body{
+	background-colot: #DAC8B5;
+	font-family: "Arial";
+}
+
+.header{
+	width: 100%;
+	text-align: center;
+	background-color: #008047;
+	color: #F8B8B8;
+	height: 80px;
+	padding: 4px;
+}
+
+h3, h2, article, p{
+	text-align: center;
+	color: F8B8B8;
+}
+
+.footer{
+	text-align: center;
+}
