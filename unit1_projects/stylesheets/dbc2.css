@@ -18,31 +18,41 @@ body{
 #container{
   width: 75%;
   margin: auto;
-  padding: 30px;
   border: 1px solid #666;
   background: #ffffff;
 }
 
 #sidebar
 {	color:blue; 
-	float:left; 
+	position: relative;
+	right: 512px; 
 	height:500px; 
 	width:100px;
 	border: 1px solid #666;
 	background: #ffffff;
+
 }
 
 #content
-{	color:gray; 
-	margin-right:7.75%;
+{	color:gray;
+	position: relative;
+	bottom: 25px;
+	text-align: center;
+}
+
+#toast
+{	position:relative;
+	bottom: 450px;
 }
 
 #footer
 {	color:red;
 	border: 1px solid #666;
+	padding: 50px;
 	background: #ffffff;
-	padding: 30px;
 	text-align:center;
 	position:fixed;
 	bottom: 0px;
+	position: relative;
+	
 }

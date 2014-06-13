@@ -1,5 +1,5 @@
 body{
-	background-colot: #DAC8B5;
+	background-color: #DAC8B5;
 	font-family: "Arial";
 }
 
@@ -12,8 +12,19 @@ body{
 	padding: 4px;
 }
 
+.Twitch{
+
+}
+
+.column1{
+	text-align:left;
+}
+
+.column2{
+	text-align:right;
+}
+
 h3, h2, article, p{
-	text-align: center;
 	color: F8B8B8;
 }
 
