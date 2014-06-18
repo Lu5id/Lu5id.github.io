@@ -12,6 +12,24 @@ body{
 	padding: 4px;
 }
 
+.myself{
+	text-align: center;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.wollies{
+	position: relative;
+	left: 900px;
+	bottom: 240px;
+}
+
+.content{
+	text-align: left;
+	position: relative;
+	bottom: 550px;
+}
+
 .Twitch{
 
 }
@@ -24,8 +42,12 @@ body{
 	text-align:right;
 }
 
-h3, h2, article, p{
+h3, article,{
 	color: F8B8B8;
+}
+
+h2, p, strong{
+	color: green;
 }
 
 .footer{
