@@ -19,6 +19,11 @@ body{
 	margin-left: 85%;
 }
 
+.picture{
+	position: relative;
+	left: 28%;
+}
+
 .myself{
 	text-align: center;
 	margin-left: 30%;
